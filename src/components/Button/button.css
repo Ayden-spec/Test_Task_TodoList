@@ -1,0 +1,9 @@
+.component_button {
+    margin: 0 10px;
+    border: solid 1px #000;
+    border-radius: 10px;
+    padding: 7px 14px;
+    background: blue;
+    color: white;
+    font-size: 16px;
+  }
