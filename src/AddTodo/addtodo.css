@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.App_title{
+    margin: 30px 0 0 0;
+}
+
+.addtodo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    width: 40%;
+}
